@@ -1,5 +1,8 @@
 "# login" 
 
+Login Logout & Register in  PHP MySQL.User info is in Session and Protect from unautoherized Permission
+
+
 Login is common feature in every project to keep privacy and to stop access from others unauthorized users.
 If we can realize banking softweare and others finanical software or any others secret data system we must need
 the login feature to be integrated with that system.
